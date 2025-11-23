@@ -7,7 +7,7 @@ Yapay Zekâ destekli not ve etkinlik yönetim uygulamasıdır, Gemini 2.5 Flash 
 ## 🚀 Özellikler
 
 - 📝 Not ekleme, listeleme ve özetleme
-- 📅 Etkinlik ekleme, sıralama ve gösterme
+- 📅 Etkinlik ekleme, listeleme ve özetleme
 - 🤖 Gemini 2.5 Flash API ile yapay zekâ sohbeti
 - 🧠 Mesaj niyet analizi (not özeti, etkinlik özeti, normal sohbet)
 - 💽 SQLite veritabanı kullanımı
@@ -81,12 +81,26 @@ streamlit run main.py
 
 |  | 
 |----------------------|
-| ![Login](screenshots/ozet.png) 
-
-
-
+| ![Login](screenshots/asistan1.png) 
+---
 | |  
 |----------------------|
-| ![Login](screenshots/ozet2.png) |
+| ![Login](screenshots/asistan2.png) |
+---
+| |  
+|----------------------|
+| ![Login](screenshots/asistan3.png) |
+---
+| |  
+|----------------------|
+| ![Login](screenshots/asistan4.png) |
+---
+| |  
+|----------------------|
+| ![Login](screenshots/asistan5.png) |
+---
+| |  
+|----------------------|
+| ![Login](screenshots/asistan6.png) |
 
 ---
